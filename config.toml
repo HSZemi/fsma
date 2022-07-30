@@ -1,0 +1,4 @@
+baseURL = 'https://metaphysik-astrologie.de/'
+languageCode = 'de-de'
+title = 'Fachschaft Metaphysik / Astrologie'
+theme = 'ananke'
